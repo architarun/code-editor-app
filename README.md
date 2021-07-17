@@ -6,6 +6,8 @@ This is my first project using React and Node.js. So I had to learn t from scrat
 
 Unfortunately I was unable to implement the file directory kind of setup where the user chooses the file(HTML,CSS or JS) he/she wants to edit and and the other code editor panel changes dynamicaly due to the deadline.
 
+I hope this project demonstrates my willingness to learn and ability to adapt to the situation. As you can see, I was able to learn React to a  minor extent in just 2 days and implement a project in that time. I will continue to upskill myself inorder to be more productive at the organisation where I will be employed. So I hope to grow along with my organisation.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
